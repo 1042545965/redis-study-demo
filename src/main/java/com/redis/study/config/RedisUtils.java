@@ -16,10 +16,9 @@ import java.util.concurrent.TimeUnit;
  *
  * @author WangFan
  * @author XiaoFeng 修改为静态工具类
- * @version 1.1 (GitHub文档: https://github.com/whvcse/RedisUtil )
+ * @version 1.1
  * @date 2018-02-24 下午03:09:50
  */
-@Component
 public class RedisUtils {
 
     private RedisUtils() {
