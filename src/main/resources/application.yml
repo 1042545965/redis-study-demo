@@ -11,8 +11,6 @@ spring:
         max-idle: 8
         # 连接池中的最小空闲连接
         min-idle: 0
-        # 关闭超时时间
-        shutdown-timeout: 100
     #sentinel哨兵配置
     sentinel:
       master: mymaster
